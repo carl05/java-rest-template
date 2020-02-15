@@ -1,4 +1,4 @@
-# java-rest-template
+# Java API Rest Template
 A Java Spring Boot Application Template with unit tests and integration tests.
 
 Swagger
